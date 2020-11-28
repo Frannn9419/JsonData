@@ -1,4 +1,4 @@
 [
-	{'name': 'Barbie Motorista' },
-	{'name': 'Carlos Motorista' }
+	{'name': 'Barbie Motorista', 'score': '11000' },
+	{'name': 'Carlos Motorista', 'score': '11212' }
 ]
