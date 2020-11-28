@@ -1,4 +1,4 @@
-{
-	"name": "Barbie Motorista"
-  
-}
+[
+	{'name': 'Barbie Motorista' },
+	{'name': 'Carlos Motorista' }
+]
