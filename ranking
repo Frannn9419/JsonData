@@ -1,10 +1,10 @@
 [
-	{'name': 'Barbie Motorista', 'score': '11000' },
-	{'name': 'Carlos Motorista', 'score': '11212' },
-	{'name': 'Nacho Padelista', 'score': '11000' },
-	{'name': 'Alex Piragüista', 'score': '11212' },
+	{'name': 'Barbie Motorista', 'score': '2000' },
+	{'name': 'Carlos Grafiquista', 'score': '1000' },
+	{'name': 'Nacho Padelista', 'score': '100' },
+	{'name': 'Alex Piragüista', 'score': '3200' },
 	{'name': 'Victor Dormidista', 'score': '11000' },
-	{'name': 'Jc Pensionista', 'score': '11212' },
-	{'name': 'Barbie Motorista', 'score': '11000' },
-	{'name': 'Carlos Motorista', 'score': '11212' }
+	{'name': 'Jc Pensionista', 'score': '200' },
+	{'name': 'Jose Trompista', 'score': '2500' },
+	{'name': 'Josu Bombista', 'score': '50' }
 ]
