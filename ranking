@@ -1,10 +1,10 @@
 [
 	{'name': 'Barbie Motorista', 'score': '11000' },
 	{'name': 'Carlos Motorista', 'score': '11212' },
-	{'name': 'Barbie Motorista', 'score': '11000' },
-	{'name': 'Carlos Motorista', 'score': '11212' },
-	{'name': 'Barbie Motorista', 'score': '11000' },
-	{'name': 'Carlos Motorista', 'score': '11212' },
+	{'name': 'Nacho Padelista', 'score': '11000' },
+	{'name': 'Alex Piragüista', 'score': '11212' },
+	{'name': 'Victor Dormidista', 'score': '11000' },
+	{'name': 'Jc Pensionista', 'score': '11212' },
 	{'name': 'Barbie Motorista', 'score': '11000' },
 	{'name': 'Carlos Motorista', 'score': '11212' }
 ]
