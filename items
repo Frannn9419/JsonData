@@ -1,7 +1,7 @@
 [
-   {'name':'Filo Infinito','damage': 100 },
+   {'name':'Piragüa Alexandrina','damage': 100 },
    {'name':'Camoncio Supremo','damage': 200 },
    {'name':'Bombardino','damage': 50 },
    {'name':'Microfono de Carlos','damage': 400 },
-   {'name':'Ala Frita','damage': 800 }
+   {'name':'Crema antiedad','damage': 800 }
 ]
